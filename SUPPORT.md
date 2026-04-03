@@ -19,7 +19,7 @@ Do not use GitHub Issues for:
 
 For product, commercial, and integration inquiries:
 
-- support@bitsensing.com
+- tech-support@bitsensing.com
 
 ## Security Reports
 

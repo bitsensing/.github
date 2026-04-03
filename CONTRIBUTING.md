@@ -7,7 +7,7 @@ Thank you for your interest in contributing.
 - Use Issues for bug reports and feature requests.
 - Open an Issue before starting large changes so scope and direction can be aligned first.
 - For security-related issues, do not open a public issue. Please follow `SECURITY.md`.
-- For product, commercial, or integration support, contact support@bitsensing.com.
+- For product, commercial, or integration support, contact tech-support@bitsensing.com.
 
 ## Pull Requests
 

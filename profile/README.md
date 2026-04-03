@@ -36,5 +36,5 @@ This GitHub organization is the home of public SDKs, ROS 2 drivers, documentatio
 ## Support
 
 - Use GitHub Issues for reproducible bugs, documentation fixes, and feature requests
-- For product, commercial, or integration inquiries: support@bitsensing.com
+- For product, commercial, or integration inquiries: tech-support@bitsensing.com
 - For security reports: security@bitsensing.com
