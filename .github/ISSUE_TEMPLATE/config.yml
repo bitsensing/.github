@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product or Commercial Support
+    url: mailto:support@bitsensing.com
+    about: Contact bitsensing for product, commercial, evaluation, or integration inquiries.
+  - name: Security Report
+    url: mailto:security@bitsensing.com
+    about: Report security vulnerabilities privately by email.
